@@ -2,6 +2,7 @@
 <h1>AStar2D Simulation</h1>
 <p>
 <h2>Description</h2>
-  This is a 2D simulation of the Astar algorithm, a small part of a larger project I've been working on. In this project the agent will find the shortest 
-  path from its position to the Node2D labeled goal. This agents path updates in real time changing its path if the goal node changes position.
+<p>This is an implimentation of the AStar algorithm inside Godot, in the image below green is the goal point and the black box is the entity trying to reach the goal</p>
+  
+<img src="https://github.com/Benjamin-Fever/AStar2D-Simulation/assets/43081670/5790acdc-dce9-479b-a3f3-e55cb7a359f4" width="510px"/>
 </body>
